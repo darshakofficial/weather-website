@@ -1,3 +1,9 @@
+# Make this changes to run this project
+
+Go to https://openweathermap.org/current and get your own API key and replace with first <API_KEY> in src/api.js file
+
+Go to https://rapidapi.com/wirefreethought/api/geodb-cities/ and get your own API key and replace with second <API_KEY> in src/api.js file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
